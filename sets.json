@@ -1,0 +1,54 @@
+{
+    "workbench.colorTheme": "August - Kanagawa",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.suggestSelection": "first",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.glyphMargin": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "terminal.integrated.cursorStyle": "line",
+    "explorer.confirmUndo":"light",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.quickSuggestionsDelay": 5,
+    "editor.folding": false,
+    "workbench.panel.showLabels": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "chat.viewSessions.enabled": false,
+    "python.createEnvironment.trigger": "off",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "claudeCode.preferredLocation": "panel"
+}   
